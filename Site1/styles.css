@@ -1,1 +1,17 @@
 
+body {
+	font-family: 'Century Gothic', Arial, Tahoma, sans-serif;
+}
+
+.container {
+	background-color: #555;
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	display: flex;
+}
+
+.item {
+	color: white;
+	flex-basis: 400px;
+}
